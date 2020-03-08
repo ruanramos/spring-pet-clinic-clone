@@ -39,7 +39,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/ruanramos/spring-pet-clinic-clone.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:ruanramos/spring-pet-clinic-clone.git</developerConnection>
       <tag>pet-clinic-clone-0.0.1</tag>
   </scm>
 
