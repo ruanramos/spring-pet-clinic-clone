@@ -14,7 +14,7 @@
     </parent>
     <groupId>ruan.ramos</groupId>
     <artifactId>pet-clinic-clone</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>pet-clinic-clone</name>
     <description>My clone of spring petclinic</description>
 
@@ -41,7 +41,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:ruanramos/spring-pet-clinic-clone.git</developerConnection>
-      <tag>pet-clinic-clone-0.0.2</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
